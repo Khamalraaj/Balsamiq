@@ -35,7 +35,7 @@ C.Defined screen flow:
   7. Add navigation flow arrows between screens 
   8. Save and export the wireframe design as image or PDF
 ## SCREENSHOTS:
-[Screenshot 2025-05-15 004326 (1).pdf](https://github.com/user-attachments/files/20506857/Screenshot.2025-05-15.004326.1.pdf)
+![Screenshot 2025-05-15 004326](https://github.com/user-attachments/assets/7dd63b5d-97d9-4334-8fe9-358a4f44ede9)
 
 ## Result:
 Thus, the experiment was completed successfully.
